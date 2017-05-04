@@ -1,0 +1,115 @@
+
+
+body {
+	background-color:#FFCA00;
+	height: 1200px;
+}
+
+#logo{
+	margin-bottom: -30px;
+	margin-top: -15px;
+}
+
+#eat-gif{
+
+	height: 200px;
+	max-width: auto;
+	border-radius: 700px;
+	margin-top: 5px;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+.input-group-btn:last-child>.btn, .input-group-btn:last-child>.btn-group {
+	background-color:black ;
+	border-color: black;
+}
+
+.input-group .form-control, .input-group-addon, .input-group-btn {
+    margin-left: -20px;
+}
+
+button.btn.btn-info.btn-lg:focus{
+	background-color:black ;
+	border-color: black;
+	outline:0;
+}
+
+td{
+	letter-spacing: 1px;
+	color: black;
+	font-size: 16px;
+	font-family: 'Lobster', cursive;
+	
+}
+
+tr: hover {
+	background-color: red;
+}
+
+.btn-danger{
+	background-color: black;
+	color: #FFCA00;
+	font-family: 'Baloo', cursive;
+	font-size: 12px;
+
+}
+h3 {
+	letter-spacing: 1px;
+	color: black;
+	font-size: 34px;
+	/*font-family: 'Baloo', cursive;*/
+	/*font-family: 'Lobster', cursive;*/
+	/*font-family: 'Lobster Two', cursive;*/
+	font-family: 'Vast Shadow', cursive;
+}
+
+.glyphicon{
+	color: #BFD334;
+}
+
+button.btn.btn-info.btn-lg:hover {
+	opacity: .7;	
+}
+
+button.btn.btn-info.btn-lg:active {
+	opacity: .6;	
+}
+
+
+#add-burger{
+	margin-top:15px;
+}
+
+.input-group { 
+	max-width: 250px;
+}
+
+.input-lg{
+	height: 45px;
+}
+
+.tables {
+	max-width: 400px;
+	padding-right: 10px;
+	padding-right: 10px;
+}
+
+#eaten {
+
+	float: right;	   
+}
+
+#menu{
+	float: left;	
+	
+}
+
+footer{
+	font-family: 'Vast Shadow', cursive;
+	margin-top: 5px;
+
+}
